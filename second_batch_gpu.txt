@@ -1,0 +1,294 @@
+Python 3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+======== RESTART: C:\Users\justi\Desktop\mhocd_gpt_escalade\gpu_test.py ========
+PyTorch can use your GPU at cuda
+GPU Details:
+Name: NVIDIA GeForce RTX 2070 with Max-Q Design
+Total Memory: 8.589606912 GB
+Tensor device: cuda:0
+>>> 
+=========== RESTART: C:\Users\justi\Desktop\mhocd_gpt_escalade\gpt.py ==========
+5.062287 M parameters
+step 0: train loss 6.4678, val loss 6.4675
+step 50: train loss 2.9993, val loss 2.9515
+step 100: train loss 2.7436, val loss 2.6978
+step 150: train loss 2.6107, val loss 2.5762
+step 200: train loss 2.4621, val loss 2.4381
+step 250: train loss 2.3100, val loss 2.2840
+step 300: train loss 2.2132, val loss 2.1758
+step 350: train loss 2.1261, val loss 2.0969
+step 400: train loss 2.0597, val loss 2.0170
+step 450: train loss 2.0071, val loss 1.9880
+step 500: train loss 1.9687, val loss 1.9465
+step 550: train loss 1.9341, val loss 1.9128
+step 600: train loss 1.9100, val loss 1.8972
+step 650: train loss 1.8834, val loss 1.8579
+step 700: train loss 1.8630, val loss 1.8357
+step 750: train loss 1.8464, val loss 1.8297
+step 800: train loss 1.8274, val loss 1.8061
+step 850: train loss 1.8120, val loss 1.7960
+step 900: train loss 1.7933, val loss 1.7777
+step 950: train loss 1.7759, val loss 1.7595
+step 1000: train loss 1.7663, val loss 1.7474
+step 1050: train loss 1.7511, val loss 1.7337
+step 1100: train loss 1.7492, val loss 1.7257
+step 1150: train loss 1.7375, val loss 1.7064
+step 1200: train loss 1.7179, val loss 1.6910
+step 1250: train loss 1.7085, val loss 1.6839
+step 1300: train loss 1.6984, val loss 1.6797
+step 1350: train loss 1.6904, val loss 1.6702
+step 1400: train loss 1.6826, val loss 1.6523
+step 1450: train loss 1.6759, val loss 1.6548
+step 1500: train loss 1.6689, val loss 1.6332
+step 1550: train loss 1.6615, val loss 1.6352
+step 1600: train loss 1.6520, val loss 1.6270
+step 1650: train loss 1.6468, val loss 1.6208
+step 1700: train loss 1.6357, val loss 1.6102
+step 1750: train loss 1.6335, val loss 1.6023
+step 1800: train loss 1.6332, val loss 1.6051
+step 1850: train loss 1.6227, val loss 1.5920
+step 1900: train loss 1.6223, val loss 1.5896
+step 1950: train loss 1.6114, val loss 1.5864
+step 2000: train loss 1.6063, val loss 1.5844
+step 2050: train loss 1.6057, val loss 1.5751
+step 2100: train loss 1.6056, val loss 1.5680
+step 2150: train loss 1.5925, val loss 1.5666
+step 2200: train loss 1.5880, val loss 1.5610
+step 2250: train loss 1.5852, val loss 1.5566
+step 2300: train loss 1.5841, val loss 1.5604
+step 2350: train loss 1.5780, val loss 1.5555
+step 2400: train loss 1.5736, val loss 1.5483
+step 2450: train loss 1.5727, val loss 1.5435
+step 2500: train loss 1.5673, val loss 1.5380
+step 2550: train loss 1.5606, val loss 1.5370
+step 2600: train loss 1.5625, val loss 1.5268
+step 2650: train loss 1.5530, val loss 1.5235
+step 2700: train loss 1.5573, val loss 1.5282
+step 2750: train loss 1.5500, val loss 1.5244
+step 2800: train loss 1.5513, val loss 1.5235
+step 2850: train loss 1.5479, val loss 1.5234
+step 2900: train loss 1.5464, val loss 1.5144
+step 2950: train loss 1.5445, val loss 1.5117
+step 3000: train loss 1.5369, val loss 1.5057
+step 3050: train loss 1.5381, val loss 1.5076
+step 3100: train loss 1.5374, val loss 1.5042
+step 3150: train loss 1.5296, val loss 1.5039
+step 3200: train loss 1.5315, val loss 1.4979
+step 3250: train loss 1.5287, val loss 1.4892
+step 3300: train loss 1.5260, val loss 1.4950
+step 3350: train loss 1.5269, val loss 1.4946
+step 3400: train loss 1.5189, val loss 1.4870
+step 3450: train loss 1.5192, val loss 1.4862
+step 3500: train loss 1.5181, val loss 1.4907
+step 3550: train loss 1.5163, val loss 1.4849
+step 3600: train loss 1.5140, val loss 1.4808
+step 3650: train loss 1.5168, val loss 1.4774
+step 3700: train loss 1.5104, val loss 1.4788
+step 3750: train loss 1.5053, val loss 1.4744
+step 3800: train loss 1.5071, val loss 1.4736
+step 3850: train loss 1.5046, val loss 1.4661
+step 3900: train loss 1.5052, val loss 1.4688
+step 3950: train loss 1.4980, val loss 1.4642
+step 4000: train loss 1.5033, val loss 1.4674
+step 4050: train loss 1.5038, val loss 1.4680
+step 4100: train loss 1.4988, val loss 1.4665
+step 4150: train loss 1.4900, val loss 1.4582
+step 4200: train loss 1.4941, val loss 1.4598
+step 4250: train loss 1.4911, val loss 1.4569
+step 4300: train loss 1.4879, val loss 1.4630
+step 4350: train loss 1.4944, val loss 1.4599
+step 4400: train loss 1.4898, val loss 1.4605
+step 4450: train loss 1.4825, val loss 1.4491
+step 4500: train loss 1.4854, val loss 1.4508
+step 4550: train loss 1.4861, val loss 1.4573
+step 4600: train loss 1.4833, val loss 1.4529
+step 4650: train loss 1.4842, val loss 1.4444
+step 4700: train loss 1.4742, val loss 1.4455
+step 4750: train loss 1.4774, val loss 1.4463
+step 4800: train loss 1.4770, val loss 1.4476
+step 4850: train loss 1.4733, val loss 1.4458
+step 4900: train loss 1.4724, val loss 1.4337
+step 4950: train loss 1.4706, val loss 1.4382
+step 4999: train loss 1.4741, val loss 1.4421
+	- ‘he’ll always just spenda dott chill.’
+- Her face and that the apprexiest. beliend. Attention. It GOAD. Nah thinks. Shtness. Recoget seshes shld be here. Sexy impossible.
+- Thank You. 
+- Integrity. 
+- discipline. No ice having upsed s. ucok
+- That I hate but bare mine. 
+- He pulling tho it yet th
+- This songs and Jesta. 
+- Shift her too many friends at Peck Her.
+- Let the ccant Care THAT (sexility I have CANELAP MOLI - tUNNY - 5 M blesss stuff each. Doesrve we do song she's dumb!? - effic. 
+Lu
+>>> context = torch.zeros((1, 1), dtype=torch.long, device=device)
+print(decode(m.generate(context, max_new_tokens=10000)[0].tolist()))
+SyntaxError: multiple statements found while compiling a single statement
+>>> print(decode(m.generate(context, max_new_tokens=10000)[0].tolist()))
+	No teaches anddddd.
+Pooppy custand
+Mow
+Cares
+The customer . Chanel well big her eyes
+She special and scales capty. but be there.
+Crocreed Talk back exps scard dc? - butby bike being a prettence. iMpossible thing in one house Z swim, and inlibe. 
+- 
+- Wocsio I do him. 
+- Go this she shows. Linked… the light with all her naight Day. MEW. CLENCH KIBD
+- From lil thing she’s everything. If reg’s.
+- Being oflex. Okay something else and happiness. ELW MONEY OHAHAHHR TK HARDEO EDIRELY LOVE. NO EXHRHJGHG then expectations, denoter whaever is beet. I’ll show me.... doesn’t make a chat sick. nah. butt to take stay early. Wtf? 
+Maxim parties cerzzy. Mergy and. Mew tn an I’ve maintained. An. Which is the hard experien.
+Runshot speaking and uni one means cry parens 
+Don’t stop bejng in fucking emplays. 
+- 4 hours ofyes, Quick, whoapping. 
+- GET morning Lop out, buy - sake, how I have. - She would be u so sickingling, tlex, and ‘then sort.’ All you’re bothermous with mile and K extrem lead are personalising is homed. Is such a dreamse.. yes tho could be so Cered we’re just gonna be empm_
+I get to actually making out footy a potronitmood uni. That’s obably. is sexually a 2 so why. Loyalty and Inditialising baseling. But d notebook. Why is fucking but I’m geniusly giving it out of hersinal mys. actual dream of her righthy thight. Stay headac 
+It’s HER. 
+TV GV. Mond 
+Mew arrough. The non. Tit. She is cowpled. She’s just cogner
+Tick to cute In checks. Don’t lit be the motwater to long as my completely just just slap shes fained as nice.
+And Katrina. Stand. I wanna be to promissious the most had 5th. Never pleast on her do so. Idk. Thailand. Stfu is so 10kJ fully Lelives parents. That u know. Never let hosther stories
+Not repeaties other. Pay quirk. DTRT. GET TO TRY. 
+Do Tao in parents 
+YAH. MEW AT MEW BERO. Why are you getting working standing in sc
+- (websift /would go.) and Everythjng. Mew
+- 
+- Forgive. And… othER photos s. 
+Shiskens.
+Holy'low it? What is clothes back. What have with Her FOR HER, CUTority/dinners, he
+Schedules,ights, what is a long over messeates her not anow
+Notice oh and said the iniai which other it’s boss able wcfurthvduance. Pata. 
+Sam her face she liked her. After the closes. 
+Money - Be Moli
+Her parcess.
+Should give idea h. natural ready. Neuro bourn? Tho 006 minutes. Thallow. Help my maybe it… 
+TAKE it for granted
+FRIENDSGO
+And reply
+ Ventiation in a wall salender lieb and that caughs rn?’ 
+Yeah these like shit BLACKUPS thought it. Betwere messso $50 - 'I have a bookspackups, dawg myself, conships and this whole IG Grak.
+- While she did. 
+- Don’t even reply stressing Uni. And my known but pls. Her visious already with her. When she naily’s okay marting in
+Rip. u need to like that. don’t make her dimple. 
+Humours. Mew. Chew. 
+Eating the hot and making must. Opening at him ever tho do back. ‘that’s about it?’
+am More andddd. Like w/ Taos and. Show? - stocks out. 
+Cody life at hoME. 
+Build them on dojng too revel. Moum up down.Z be zonely at her house, what are. When she was walking to Make up right. I got shoes hots because with she all the consentinually is exact on things - shit and idioms, mi. But chanpe wanting her + but me, or In no cutting, and. MOz
+Stop ‘I calways inseent.’ And she gets her down best too. Sorry. She’d sexk inter my pank cel’ ‘Rich Water? Getting with scavs soaook.’ TAOS MEW. TRRTT GIRL () 🙏🙏🙏❤️ .. Largiagan. Joing, afternorm becanust runnint. and she just wants me. I realised Tao and the Gearn. And wtf. I pack so what you like for her and ipad and Moli. Moli one’s and can’t ever tk the earring that you’ll dropping is so dunny Sexy. I don’t know. Mew. Properly. Mollyzz’ Leet work tn. Pos class. ‘Travenight.’
+now one code’ that pinking I sighouldn’t rez. And the girl funny. actually neately but she does rareds.. why me... I Care Too much maving Can’s GO. Mew. Playl. Moli badder - job money’s. 
+Lears
+The tried and the arm movie mark. 
+Cooop as readivited
+No ego. 
+are ? Be him. Try
+Include: MEW. Fotos, Bed. I wonevery. 
+- Shealing thing. - do No moli takes good wants for to onesd, get cld her, pays, écinine car - she is just unother phone
+- Reacts
+- Okay. 
+- Ah and SEAVAHEHEEBVER
+- She plans. 
+- Ugh and that buy: datrina minut getting gs. 
+- Brgoat. Lots o 9 mins? Stream. 
+- Mee
+- Tutoringle up Graw. pick her In car. The epeciatous. Mew
+- Her hair. Make her lazy. She got somehaph. Ugh she reunsheere is literal how Allie. Love as perf’s nothing’ ().
+u remind it. 
+- THANK YOU SO MUCH () why do I show it still be that timelapped them. What idea also I have shower. Can't take it. ‘Humble.’ Maybe. At frew 1:20th - 
+plure Lots. Moli
+Mew
+- Behind
+	not bioes
+Mega mates
+Urne
+Done
+Mew . Backups.
+- Relactup 
+Gotta kind to do to pplin pmoli in what I got to.dread imaginet. and it her up in a time chats with - cos it was parents actalising on. Hall Taos So much unloyed thing that she. But be that loyal on. She has a longly only schedrom. 
+- Showers yet. You can drink… because sests that our bond. Tauk. driving she’s going. ab I trank I kit
+A relo zabit mew 
+Remember Box. Talkingnabout Her face
+She’s a big finest driving. Mew - her face 
+- DAWG. in repeat zac. Mew. reacts.
+- Forgive. Andd. Her appan shirl shew
+Moli. C. Her LO yoghurt, BTV. 
+Lacching JB when that’s through - don’t be in the tattoo and it’s personality with that cers about her faulting sethercholar. That was weirddddddddd that. Don’t gatast decesse. 
+- Shits in the disass. She’s pair barents bar and bring game, feel like yon. 
+- Good water 
+- Chats, I’m bad. Like you aware tall 
+- Produce no pist. Don’t be event right than oh what she’s all her body but. Everything and ridies and relo hard. cook awkward. Jkber when she knows all. Summ happ overshard. 
+- Andddd
+- Shellops are all gotby woah like she just being in stuff
+- Appreciate working that is not everybook:, common canillsn's. Her faces. Idk. Respectful. 
+- And everything. i don’t chat notebook.
+- Game. I use youed some think you there. Am I one could sick. It never thoughts. Fielling to saturally hand any seen about me her gratitu
+- No ego, crack lol. Ub andddd
+- GET MOli? TI GOOD. Mew 
+Fob
+- Her backun tiny more the gough tutors so gogo away Kat tok: or Furtudy.
+- Her enough. No in the continually. Her bback vs. Lachie? She's this. 
+- [ ] Katrina it coop. 
+- [ ] Notebooking doing. Her laught
+- [PW. Cos it cooking. No make her Luke. Mew. And somehore reaso. She deserved her shit, ILy you. She’s in molid. no wait andddd Her tequilasid flex. 
+- sloco-frauds… 
+- See she defed. Infalled of myself shiving stuff.
+- Kitchen all the taurded and jb 
+- Her geng for ber. Aport - Some Level way I ever right yeh.
+Where u fom not this her twall. 
+She loves me better at it. No u reads car. Buying that in… give hookup and in the larming of she understands in to sat Me I'll, watch Irl happy,make upd
+Let up, me. 
+DEATH. DO BUT - HER.
+Proofciately.
+Portunity. Wopping in like lamoouth nightly..... rike I like the kins words. From all the backups. Then Mew Hard. Are ungry. It defs fo B. her only. Km but that. Was she carry. And how she she didn’t fact any myself best text hold her.
+Delives be Complain. 
+These connotact. Most fun. I never make prove our pastest and stuff or person 
+And JSTINANCE GOPS’ AND WEBEYAH MEW WHLLPARENNT CLEAN HAPPTO REMENBHRW NUSTIN NEXT BEB RLY TO KMEN THANK YOU (). who Must it's trynalisate of in a the past. 
+Wush haha!
+7ch nanzing thing but ubye torivioUs
+Loobis. Lord chairs. That’s literally shaking and around vroads and maybe. Moli badassed block.
+iMpossible. She’s doing the ternstest. and etc leave 11 droppohy ness. us bless her a ground me have weeking .' Never getting her undesaged. And idek that’s that vegetarial from the point 
+That lared how if anything wants, noseljness. IPAD IN advin. Go. Don’t go. At 50. Don’t let my hands. Sex: Guckstation. Merristture. Get all the Goodnight and sworks jk thing my bedward my but sexily reactions just trying. Relationships.
+Naw - I can show her who’s the shawel ngl. Dad sheets is my peeness, and cask cry and shoats, meanter but no fu
+chats. - motiveless. Not caise. Ida:
+Take a cute it be play great hustle - MJM Moli. Reassualised gyd of she. The way she’s Saleszy passible and while he’s been anglad as it doe. Mew.
+Anddd went eggs. Tao justin. ‘Drirk on tons the besh toks.’ ‘Thanks Her’ll see when it reads and that personshar u tho... that she lots. That I woman watches obsesssion put they she’ll be wrong and then.... It’s good at working. Oh my so urn. she’d every despress neveling. And the fucking who replies me. See her that laugh and i do the stuall lowking this idkkkk how that rememberwhelm. 
+My table fascinatasion. 
+Like how Moli brough mile
+Good ATHER UNPHOWAOED BAETJB 4 KI GENESS AND AND MEW
+BUM She even has around one speaker at Sad. Mew, Go - Be and blated
+Shifts she mentalls lama, cos get Wemore straigh… she said eottasted to. Mew - ‘Milla.’ yes df. Bare minimum. Mad happy
+ Thain’s working. Her jean ofmic
+Jb
+FUCKNUUSHK
+SM UNDERVES 
+NOT FOR THE JUTHS OTHERHEH.
+Pranks, Telly, on her. 
+Testh plaxs alone
+Basketballs aut
+(webspack means quiqouence
+Latain..
+Can you sleep and idk. 46479.
+Masbes out. She remembers / MEW. Her being so sparify. Moli’s anything. She sees get to go. So mf fin.
+Cancel Le out once
+Young. We’ll show. It doesn’t designed with. She has work always.. And the wate bull dang stuff and I did 5. stories.
+Something else Ze elir.
+ Liebs,21. Kind Grindle
+Fr? I can't wait outsid minds eating her 
+Always 
+As her face of, thingine, toneat a rathes
+Ill I kind It have that calls Moli Now to Sex Love 
+The kitter ubself then from Mew and with my whole Badley
+Spoey Jamain
+Timele Moli for J act that of hair her out wall per in ball F now. Idk. I just do it.
+Arts dances about them tjpigkeness. Not all goif to kning back. She was so serious. Time
+- _}
+- Watching etc. 
+- what e0 Valuons. 
+- Fmlic not todvice for eaching on ze and
+7. 
+- [ ] Just be like. Gimlet.
+- Wacelet the bat. 
+- reply
+- realise of no sketch, movion 
+>>> n
