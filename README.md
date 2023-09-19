@@ -1,15 +1,17 @@
 # diary-gpt
-Building ChatGPT from scratch using python, trained on my digitised diary (Large Language Model)
+*Building ChatGPT from scratch using python, trained on my digitised diary (Large Language Model)*
 
 ## Motivation
 
-- **Unique Dataset**: A digital diary capturing the evolution from structured daily recounts to abstract thought fragments, infused with spiritual and religious overtones.
-- **Complexity**: The data is a blend of tangible memories, abstract ideas, and unexpected gems, representing both significant moments and fleeting thoughts.
-- **Goals**:
-  - **Understanding the Abstract**: Decode the dataset's complexity and transform intangible memories into comprehensible insights.
-  - **Mapping the Mental Landscape**: Visualize the evolution and architecture of personal thoughts, despite their random manifestation.
-  - **Clearing the Cache**: Process and restructure overwhelming memories, providing clarity and potentially alleviating mental burdens.
-- **Deep Dive**: Beyond data analysis, this project aims to explore the human psyche and gain insights into personal identity through machine learning.
+- 📘 **Unique Dataset**: A digital diary capturing the evolution from structured daily recounts to abstract thought fragments, infused with spiritual and religious overtones.
+- 🌀 **Complexity**: The data is a blend of tangible memories, abstract ideas, and unexpected gems, representing both significant moments and fleeting thoughts.
+- 🎯 **Goals**:
+  - 🤔 **Understanding the Abstract**: Decode the dataset's complexity and transform intangible memories into comprehensible insights.
+  - 🔍 **Mapping the Mental Landscape**: Visualise the evolution and architecture of personal thoughts, despite their random manifestation.
+  - 🔄 **Clearing the Cache**: Process and restructure overwhelming memories, providing clarity and potentially alleviating mental burdens.
+- 🧠 **Deep Dive**: Beyond data analysis, this project aims to explore the human psyche and gain insights into personal identity through machine learning.
+
+---
 
 ## Results
 
