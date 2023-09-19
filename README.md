@@ -13,7 +13,6 @@ Building ChatGPT from scratch using python, trained on my digitised diary (Large
 ---
 
 ## How it Works
-<img width="200" alt="image" src="https://github.com/jl33-ai/diary-gpt/assets/127172022/757bc8f5-afd6-42e7-a386-5709581ceee9">
 
 - **CUDA Detection**: Checks if NVIDIA CUDA is available and identifies the number of GPUs and their specifications.
 - **Hyperparameters**: Pre-defines various hyperparameters such as batch size, block size, number of iterations, learning rate, etc.
@@ -26,6 +25,7 @@ Building ChatGPT from scratch using python, trained on my digitised diary (Large
   - **Feed-Forward Block**: Comprises a simple linear layer followed by a ReLU activation.
   - **Transformer Block**: Houses both the multi-head attention and feed-forward block, allowing for communication followed by computation.
   - **GPT Language Model**: Built on top of transformer blocks, this model generates text. It employs token and position embeddings and ends with a linear layer mapping to the vocabulary size.
+  - <img width="200" alt="image" src="https://github.com/jl33-ai/diary-gpt/assets/127172022/757bc8f5-afd6-42e7-a386-5709581ceee9">
 - **Training**:
   - Utilizes the AdamW optimizer for model optimization.
   - Periodically evaluates loss on training and validation data.
